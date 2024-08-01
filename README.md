@@ -1,0 +1,1 @@
+This is a cat website I made after learning how to use HTML and CSS. The files that have FINAL_WEBSITE are the pages for my website. The rest are the practice files, from which I was able to implement a lot of ideas into my final project!
