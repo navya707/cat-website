@@ -6,7 +6,7 @@ This is a cat website I made after learning how to use HTML and CSS. The files t
 
 This was my first project - ever - using HTML and CSS (pls be considerate (T_T) ) but I was still able to perservere and make it till the end! 
 
-![Screenshot of a page in my website](https://ea3ec422-ab8c-4ca4-a526-4e7f0cb705ca-00-2zhy5tndyrpxa.worf.replit.dev/fun-facts.html)
+![Screenshot of a page in my website](file:///var/folders/3t/v1vhh3h90pd7j9l4d45d35tw0000gn/T/TemporaryItems/(A%20Document%20Being%20Saved%20By%20screencaptureui)/Screenshot%202024-08-22%20at%2014.12.35.png)
 
 > [!NOTE]
 > Cats are absolutely amazing :)
